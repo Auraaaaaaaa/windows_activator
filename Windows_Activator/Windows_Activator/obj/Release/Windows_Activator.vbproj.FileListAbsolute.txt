@@ -1,0 +1,11 @@
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\bin\Release\Windows_Activator.exe
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\bin\Release\Windows_Activator.pdb
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\bin\Release\Windows_Activator.xml
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\obj\Release\Windows_Activator.Form1.resources
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\obj\Release\Windows_Activator.Resources.resources
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\obj\Release\Windows_Activator.vbproj.GenerateResource.cache
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\obj\Release\Windows_Activator.vbproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\obj\Release\Windows_Activator.exe
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\obj\Release\Windows_Activator.xml
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\obj\Release\Windows_Activator.pdb
+C:\Users\charl\source\repos\Windows_Activator\Windows_Activator\obj\Release\Windows_Activator.vbprojAssemblyReference.cache
